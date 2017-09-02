@@ -5,7 +5,7 @@ theme = "BluestNight"
 paginate = 10             # Number of posts to show before paginating
 enableRobotsTXT = true    # Suggested, enable theme robots.txt file
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
-googleAnalytics = "UA-77358546-10" #Google Analytics
+googleAnalytics = "UA-105754943-1" #Google Analytics
 
 [Params]
     tagline = "Sexy ass gif"           # Subtitle of your site
