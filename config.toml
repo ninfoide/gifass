@@ -52,7 +52,7 @@ googleAnalytics = "UA-105754943-1" #Google Analytics
     search = true                 # Enable a search bar widget
     recent_articles = false        # Enable "Recent articles" widget
     categories = true             # Enable "Categories" widget
-    tags = true                   # Enable "Tags" widget
+    tags = false                   # Enable "Tags" widget
     patreon = "eudigitalis@gmail.com" # Enable "Patreon" widget
 
 [outputs]
