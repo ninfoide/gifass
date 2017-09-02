@@ -1,0 +1,9 @@
+{{- with .Site.Params.widgets.patreon -}}
+<div class="widget">
+	<a href="mailto:{{ . }}">
+		{{- $.Scratch.Set "patreon_banner_url" "images/domain.png" -}}
+		{{- with $.Site.Params.widgets.patreon_banner -}}{{- $.Scratch.Set "patreon_banner_url" . -}}{{- end -}}
+    <img id="patreon-banner" src="{{ $.Scratch.Get "patreon_banner_url" | absURL }}" alt="Buy This Domain" title="This domain is for sale!" />
+  </a>
+</div>
+{{- end -}}
