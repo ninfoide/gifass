@@ -217,9 +217,6 @@ thumbnail : 'images/giphy_slap.gif'
 ---
 <!--more-->
 
-
-
-
 <a href="https://t.frtyi.com/zkd7k8l24g?offer_id=2676&aff_id=41958&bo=2779,2778,2777,2776,2775&file_id=122739" target="_blank"><img src="https://www.imglnka.com/2676/001752A_LIJA_18_ALL_EN_71_L.gif" width="300" height="250" border="0" /></a><img src="https://t.frtyi.com/jltw5jdpky?offer_id=2676&aff_id=41958&bo=2779,2778,2777,2776,2775&file_id=122739" width="1" height="1" />
 
 
