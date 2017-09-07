@@ -54,6 +54,8 @@ googleAnalytics = "UA-105754943-1" #Google Analytics
     categories = true             # Enable "Categories" widget
     tags = false                   # Enable "Tags" widget
     patreon = "eudigitalis@gmail.com" # Enable "Patreon" widget
+    ads_link = "teste"
+    ads_banner = ""
 
 [outputs]
     # HTML and CSS are require for the theme to work.

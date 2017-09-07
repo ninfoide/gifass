@@ -1,0 +1,9 @@
+{{- with .Site.Params.widgets.ads_link -}}
+<div class="widget">
+	<a href="{{ . }}" target="_blank">
+		{{- $.Scratch.Set "patreon_banner_url" "images/domain.png" -}}
+		{{- with $.Site.Params.widgets.ads_banner -}}{{- $.Scratch.Set "ads_banner_url" . -}}{{- end -}}
+    <img id="patreon-banner" src="{{ $.Scratch.Get "ads_banner_url" | absURL }}" alt="Ads" title="Ads" />
+  </a>
+</div>
+{{- end -}}
